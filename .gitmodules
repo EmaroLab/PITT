@@ -1,0 +1,12 @@
+[submodule "pitt_geometric_tracking"]
+	path = pitt_geometric_tracking
+	url = https://github.com/EmaroLab/pitt_geometric_tracking.git
+	branch = master
+[submodule "pitt_msgs"]
+	path = pitt_msgs
+	url = https://github.com/EmaroLab/pitt_msgs.git
+	branch = master
+[submodule "pitt_object_table_segmentation"]
+	path = pitt_object_table_segmentation
+	url = https://github.com/EmaroLab/pitt_object_table_segmentation.git
+	branch = master
