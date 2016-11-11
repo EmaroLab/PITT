@@ -6,4 +6,6 @@ to get:
 
 $ git clone https://github.com/EmaroLab/PITT.git
 
+$ cd PITT
+
 $ git submodule update --init --recursive
